@@ -10,5 +10,5 @@ github_username:  rasp0wn # DO NOT include the @ character, or else the build wi
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-#theme: minima
-theme: jekyll-theme-cayman
+theme: minima
+#theme: jekyll-theme-cayman
