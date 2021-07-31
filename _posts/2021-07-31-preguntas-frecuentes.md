@@ -14,7 +14,7 @@ En Rasp0wn te respondemos a las preguntas más frecuentes sobre Raspberry Pi y h
 <details>
 <summary><span style="color:#white">¿Qué es una Raspberry Pi?</span></summary>
 
-Una **Raspberry Pi** no es más que lo que se conoce como un **Single Board Computer** (*SBC*), es decir, un ordenador completo de reducidas dimensiones y de bajo coste. Existen **diferentes modelos** de este mini ordenador, cada uno con unas **características y precio diferentes**. Todos ellos ejecutan principalmente sistemas operativos basados en Linux (*aunque existen otros*). Podéis encontrar más información sobre modelos y todo lo que necesitas para poner en marcha una Raspberry Pi en nuestro artículo de [Cómo iniciarse en Raspberry Pi: Modelos y Hardware necesario](https://rasp0wn.github.io/como-iniciarse-en-raspberry-pi/).
+Una __Raspberry Pi__ no es más que lo que se conoce como un __Single Board Computer__ (_SBC_), es decir, un ordenador completo de reducidas dimensiones y de bajo coste. Existen __diferentes modelos__ de este mini ordenador, cada uno con unas __características y precio diferentes__. Todos ellos ejecutan principalmente sistemas operativos basados en Linux (_aunque existen otros_). Podéis encontrar más información sobre modelos y todo lo que necesitas para poner en marcha una Raspberry Pi en nuestro artículo de [Cómo iniciarse en Raspberry Pi: Modelos y Hardware necesario](https://rasp0wn.github.io/como-iniciarse-en-raspberry-pi/).
 <br>
 </details>
 
@@ -22,7 +22,7 @@ Una **Raspberry Pi** no es más que lo que se conoce como un **Single Board Comp
 <summary><span style="color:#white">¿Cómo instalar un sistema operativo en una Raspberry Pi?</span></summary>
 <br>
 
-Para instalar un sistema operativo en la Raspberry Pi **necesitaremos una tarjeta microSD** (*de al menos 8GB normalmente aunque depende del sistema que vayamos a instalar*) y un programa para **grabar la imagen del sistema en la microSD**. Para este fin, recomiendo el **programa Etcher** aunque la propia Raspberry ha sacado un programa para el mismo propósito. Simplemente deberemos de **conectar la microSD a nuestro PC, ejecutar Etcher y elegir el sistema operativo** que vamos a grabar en la tarjeta. Si queréis ver cómo es el proceso paso a paso entra en nuestro artículo Cómo instalar un sistema operativo en Raspberry Pi.
+Para instalar un sistema operativo en la Raspberry Pi __necesitaremos una tarjeta microSD__ (_de al menos 8GB normalmente aunque depende del sistema que vayamos a instalar_) y un programa para __grabar la imagen del sistema en la microSD__. Para este fin, recomiendo el __programa Etcher__ aunque la propia Raspberry ha sacado un programa para el mismo propósito. Simplemente deberemos de __conectar la microSD a nuestro PC, ejecutar Etcher y elegir el sistema operativo__ que vamos a grabar en la tarjeta. Si queréis ver cómo es el proceso paso a paso entra en nuestro artículo Cómo instalar un sistema operativo en Raspberry Pi.
 <br>
 </details>
 
@@ -30,6 +30,6 @@ Para instalar un sistema operativo en la Raspberry Pi **necesitaremos una tarjet
 <summary><span style="color:#white">¿Cómo conectarte de forma remota a una Raspberry Pi?</span></summary>
 <br>
 
-Para conectarnos de forma remota a una Raspberry Pi sin necesidad de tenerla conectada a un monitor ni a un teclado y ratón, **podemos utilizar el protocolo SSH mediante el cual obtendremos una consola de comandos, o bien, el protocolo VNC si queremos un escritorio remoto** (*existen más opciones para conectarnos de forma remota pero las más comunes y sencillas de instalar en la Raspberry Pi son las anteriormente comentadas*). Tenéis disponible los artículos completos para ver paso a paso cómo conectarnos tanto por SSH como por VNC.
+Para conectarnos de forma remota a una Raspberry Pi sin necesidad de tenerla conectada a un monitor ni a un teclado y ratón, __podemos utilizar el protocolo SSH mediante el cual obtendremos una consola de comandos, o bien, el protocolo VNC si queremos un escritorio remoto__ (_existen más opciones para conectarnos de forma remota pero las más comunes y sencillas de instalar en la Raspberry Pi son las anteriormente comentadas_). Tenéis disponible los artículos completos para ver paso a paso cómo conectarnos tanto por SSH como por VNC.
 <br>
 </details>
