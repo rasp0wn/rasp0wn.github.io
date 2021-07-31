@@ -1,6 +1,6 @@
 ---
 title: "Preguntas frecuentes sobre Raspberry Pi y Hacking"
-date: 2019-04-18T15:34:30-04:00
+date: 2021-07-31T15:34:30-04:05
 categories:
   - blog
 tags:
@@ -11,9 +11,8 @@ En Rasp0wn te respondemos a las preguntas más frecuentes sobre Raspberry Pi y h
 
 ### Preguntas frecuentes sobre Raspberry Pi
 
-
 <details>
-<summary>¿Qué es una Raspberry Pi?</summary>
+<summary><span style="color:#ff1a82">¿Qué es una Raspberry Pi?</span></summary>
 <br>
-Una Raspberry Pi no es más que lo que se conoce como un Single Board Computer (SBC), es decir, un ordenador completo de reducidas dimensiones y de bajo coste. Existen diferentes modelos de este mini ordenador, cada uno con unas características y precio diferentes. Todos ellos ejecutan principalmente sistemas operativos basados en Linux (aunque existen otros). Podéis encontrar más información sobre modelos y todo lo que necesitas para poner en marcha una Raspberry Pi en nuestro artículo de «Cómo iniciarse en Raspberry Pi: Modelos y Hardware necesario«.
+Una **Raspberry Pi** no es más que lo que se conoce como un **Single Board Computer** (*SBC*), es decir, un ordenador completo de reducidas dimensiones y de bajo coste. Existen **diferentes modelos** de este mini ordenador, cada uno con unas **características y precio diferentes**. Todos ellos ejecutan principalmente sistemas operativos basados en Linux (*aunque existen otros*). Podéis encontrar más información sobre modelos y todo lo que necesitas para poner en marcha una Raspberry Pi en nuestro artículo de «Cómo iniciarse en Raspberry Pi: Modelos y Hardware necesario«.
 </details>
