@@ -1,5 +1,5 @@
 ---
-title: "Cómo Cómo instalar un sistema operativo en Raspberry Pi"
+title: "Cómo instalar un sistema operativo en Raspberry Pi"
 date: 2021-07-30T16:34:30-04:05
 categories:
   - blog
