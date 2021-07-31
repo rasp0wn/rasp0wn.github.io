@@ -72,6 +72,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rasp0wn"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/carlos-s%C3%A1nchez-g%C3%B3mez/"
 
 footer:
   links:
