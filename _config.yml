@@ -21,12 +21,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://rasp0wn.github.io/'
 baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://avatars.githubusercontent.com/u/68296250?v=4"
 
 # Pagination
 paginate: 5
@@ -36,10 +36,10 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
 - title: Blog
   url: /blog/
+- title: About
+  url: /about/
 
 # Footer nav
 navigation_footer:
@@ -54,7 +54,7 @@ collections:
     description: "My thoughts and ideas"
     feature_text: |
       Welcome to my blog
-    feature_image: "https://picsum.photos/2560/600?image=866"
+    feature_image: "https://i.ibb.co/n0LX9sn/Home.png"
 
 # Collection settings
 defaults:
