@@ -1,6 +1,6 @@
 ---
 title: rasp0wn
-feature_image: "https://ibb.co/j5rCmvW"
+feature_image: "https://i.ibb.co/n0LX9sn/Home.png"
 feature_text: |
   ## En Rasp0wn encontrarás diversos tutoriales para aprender sobre ciberseguridad y desarrollar tus propios proyectos con Raspberry Pi.
 
