@@ -22,7 +22,7 @@ Una <b>Raspberry Pi</b> no es más que lo que se conoce como un <b>Single Board 
 <summary><span style="color:#white">¿Cómo instalar un sistema operativo en una Raspberry Pi?</span></summary>
 <br>
 
-Para instalar un sistema operativo en la Raspberry Pi <b>necesitaremos una tarjeta microSD</b> (<i>de al menos 8GB normalmente aunque depende del sistema que vayamos a instalar</i>) y un programa para <b>grabar la imagen del sistema en la microSD</b>. Para este fin, recomiendo el <b>programa Etcher</b> aunque la propia Raspberry ha sacado un programa para el mismo propósito. Simplemente deberemos de <b>conectar la microSD a nuestro PC, ejecutar Etcher y elegir el sistema operativo</b> que vamos a grabar en la tarjeta. Si queréis ver cómo es el proceso paso a paso entra en nuestro artículo Cómo instalar un sistema operativo en Raspberry Pi.
+Para instalar un sistema operativo en la Raspberry Pi <b>necesitaremos una tarjeta microSD</b> (<i>de al menos 8GB normalmente aunque depende del sistema que vayamos a instalar</i>) y un programa para <b>grabar la imagen del sistema en la microSD</b>. Para este fin, recomiendo el <b>programa Etcher</b> aunque la propia Raspberry ha sacado un programa para el mismo propósito. Simplemente deberemos de <b>conectar la microSD a nuestro PC, ejecutar Etcher y elegir el sistema operativo</b> que vamos a grabar en la tarjeta. Si queréis ver cómo es el proceso paso a paso entra en nuestro artículo <a href="https://rasp0wn.github.io/blog/como-instalar-un-sistema-operativo-en-raspberry">Cómo instalar un sistema operativo en Raspberry Pi.</a>
 <br><br>
 </details>
 

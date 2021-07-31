@@ -8,13 +8,13 @@ tags:
   - primeros_pasos
   - sistema_operativo
 ---
-Una vez sabemos <a href=https://rasp0wn.github.io/blog/como-iniciarse-en-raspberry-pi> cómo iniciarnos en Rapsberry Pi</a> <b>consiguiendo todos los elementos hardware</b>, llega la hora de saber <b>cómo instalar un sistema operativo en Raspberry Pi</b>, es decir, el software.
+Una vez sabemos <a href="https://rasp0wn.github.io/blog/como-iniciarse-en-raspberry-pi/"> cómo iniciarnos en Rapsberry Pi</a> <b>consiguiendo todos los elementos hardware</b>, llega la hora de saber <b>cómo instalar un sistema operativo en Raspberry Pi</b>, es decir, el software.
 
 Como con cualquier PC, <b>la Raspberry necesitará un sistema operativo para funcionar</b>. Normalmente los sistemas operativos para la Raspberry son un archivo con extensión «.img». Estos archivos tenemos que escribirlos a la microSD con un programa (<i>por lo que necesitaremos un ordenador donde conectar la microSD mediante un adaptador para este proceso</i>). 
 
 ## ¿Qué sistema operativo instalar en Raspberry Pi?
 
-A la hora de elegir nuestro sistema operativo tenemos que tener en cuenta que existen numerosas distribuciones Linux disponibles. Por tanto trataremos de elegir la que mejor se adapte a nuestras necesidades (dependiendo si queremos montar un centro multimedia, una nube personal, un servidor web, un sistema de juegos retro, etc.), pero sin duda, la más conocida es Raspbian aunque recientemente cambió su nombre a <a href=https://www.raspberrypi.org/software/operating-systems>Raspberry Pi OS</a>. 
+A la hora de elegir nuestro sistema operativo tenemos que tener en cuenta que existen numerosas distribuciones Linux disponibles. Por tanto trataremos de elegir la que mejor se adapte a nuestras necesidades (dependiendo si queremos montar un centro multimedia, una nube personal, un servidor web, un sistema de juegos retro, etc.), pero sin duda, la más conocida es Raspbian aunque recientemente cambió su nombre a <a href="https://www.raspberrypi.org/software/operating-systems/">Raspberry Pi OS</a>. 
 
 La principal ventaja de Raspbian es su soporte tanto por parte de la propia compañía como de los usuarios que continuamente suben tutoriales y responden dudas ante cualquier problema. Además, es un sistema operativo optimizado para consumir pocos recursos.
 
@@ -30,7 +30,7 @@ En el caso de Raspbian es bastante sencillo. Solo tendremos que presionar sobre 
 
 Mientras se descarga el archivo, aprovecharemos para descargar el programa que vamos a utilizar para grabarlo a la microSD.
 
-Este programa se llama <a href=https://www.balena.io/etcher>Etcher</a> y está disponible tanto para Windows como para Mac OS y Linux. Para descargarlo solo tenemos que elegir la versión correspondiente a nuestro PC: 
+Este programa se llama <a href="https://www.balena.io/etcher/">Etcher</a> y está disponible tanto para Windows como para Mac OS y Linux. Para descargarlo solo tenemos que elegir la versión correspondiente a nuestro PC: 
 
 ![Etcher](/assets/images/posts/etcher.png)
 
