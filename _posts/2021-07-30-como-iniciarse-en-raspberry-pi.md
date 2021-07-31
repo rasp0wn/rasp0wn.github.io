@@ -1,3 +1,12 @@
+---
+title: "Cómo iniciarse en Raspberry Pi: Modelos y Hardware necesario"
+date: 2021-07-30T15:34:30-04:05
+categories:
+  - blog
+tags:
+  - raspberry
+  - primeros_pasos
+---
 El primer paso para iniciarse en Raspberry Pi es conocer qué es exactamente. Una Raspberry Pi no es más que lo que se conoce como un Single Board Computer (SBC), es decir, un ordenador completo de reducidas dimensiones y de bajo coste.
 
 ## ¿Qué tipos de modelos de Raspberry Pi existen?

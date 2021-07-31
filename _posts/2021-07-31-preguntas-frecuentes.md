@@ -15,7 +15,7 @@ En Rasp0wn te respondemos a las preguntas más frecuentes sobre Raspberry Pi y h
 <summary><span style="color:#white">¿Qué es una Raspberry Pi?</span></summary>
 <br>
 
-Una **Raspberry Pi** no es más que lo que se conoce como un **Single Board Computer** (*SBC*), es decir, un ordenador completo de reducidas dimensiones y de bajo coste. Existen **diferentes modelos** de este mini ordenador, cada uno con unas **características y precio diferentes**. Todos ellos ejecutan principalmente sistemas operativos basados en Linux (*aunque existen otros*). Podéis encontrar más información sobre modelos y todo lo que necesitas para poner en marcha una Raspberry Pi en nuestro artículo de Cómo iniciarse en Raspberry Pi: Modelos y Hardware necesario.
+Una **Raspberry Pi** no es más que lo que se conoce como un **Single Board Computer** (*SBC*), es decir, un ordenador completo de reducidas dimensiones y de bajo coste. Existen **diferentes modelos** de este mini ordenador, cada uno con unas **características y precio diferentes**. Todos ellos ejecutan principalmente sistemas operativos basados en Linux (*aunque existen otros*). Podéis encontrar más información sobre modelos y todo lo que necesitas para poner en marcha una Raspberry Pi en nuestro artículo de [Cómo iniciarse en Raspberry Pi: Modelos y Hardware necesario](https://rasp0wn.github.io/como-iniciarse-en-raspberry-pi/).
 <br>
 </details>
 
