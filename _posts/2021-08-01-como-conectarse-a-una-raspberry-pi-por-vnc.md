@@ -1,6 +1,6 @@
 ---
 title: "Cómo conectarte a una Raspberry Pi utilizando VNC"
-date: 2021-08-01T16:34:30-04:05
+date: 2021-08-01T16:33:30-04:05
 categories:
   - blog
 tags:
