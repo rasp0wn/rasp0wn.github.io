@@ -27,7 +27,7 @@ Finalmente, nos pregunta si queremos activar SSH (para conectarnos en remoto) y 
 
 Al darle a «Siguiente» nos pedirá una contraseña para securizar la conexión por SSH y ya podremos acceder al menú principal.
 
-screenshot000.png
+![screenshot000](/assets/images/posts/screenshot000.png)
 
 ## Configurando la interfaz de LibreELEC en Raspberry
 
