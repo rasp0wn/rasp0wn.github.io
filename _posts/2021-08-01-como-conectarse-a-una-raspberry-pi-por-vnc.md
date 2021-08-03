@@ -16,7 +16,9 @@ Si lo que queremos es conectarnos teniendo un escritorio como si estuviéramos d
 
 El primer paso será conectarnos por SSH a nuestra Raspberry Pi. Una vez hemos iniciado sesión ejecutamos el siguiente comando: 
 
-```vncserver```
+```
+vncserver
+```
 
 Puede que nos pida que establezcamos una contraseña para la conexión, la ponemos y cuando termine de ejecutarse el programa tendremos la siguiente información:
 
@@ -57,7 +59,9 @@ Para evitar esto podemos hacer que cuando la Raspberry se encienda automáticame
 
 Comenzamos escribiendo el siguiente comando en una terminal: 
 
-```crontab -e```
+```
+crontab -e
+```
 
 La primera vez que lo ejecutemos nos aparecerá un diálogo que nos pregunta con qué editor queremos abrir el fichero de configuración. Recomiendo utilizar «nano» si no estamos habituados a otros:
 
@@ -70,16 +74,22 @@ Tenemos que pulsar la tecla 1 en el caso de la captura y Enter. Tras esto se nos
 
 Tenemos que bajar hasta el final del todo con las flechas y escribir lo siguiente: 
 
-``` @reboot vncserver```
+``` 
+@reboot vncserver
+```
 
 
 O si queremos que el escritorio remoto de VNC tenga una resolución determinada, por ejemplo, 1920×1080 (Full HD) podemos poner lo siguiente:
 
-```@reboot vncserver -randr 1920x1080```
+```
+@reboot vncserver -randr 1920x1080
+```
 
 Para guardar los cambios utilizamos la combinación de teclas control + O (y pulsamos Enter) y para salir control + X. Podemos comprobar que funciona si reiniciamos la Raspberry Pi con el siguiente comando: 
 
-```sudo reboot````
+```
+sudo reboot
+````
 
 Cuando hayan pasado unos segundos y la Raspberry se haya reiniciado correctamente, volvemos al VNC Viewer y nos conectamos. Ahora la pantalla será mucho más grande ya que hemos cambiado la resolución.
 
@@ -87,7 +97,9 @@ Cuando hayan pasado unos segundos y la Raspberry se haya reiniciado correctament
 
 La única pega que nos podemos encontrar cuando ejecutamos VNC en el inicio por Crontab, es que cuando abrimos una terminal en vez de abrirse con bash (cuando aparece en la terminal el texto verde «pi@raspberrypi:~ $») se abre con sh (solo aparece «$» y es menos cómoda de utilizar). Por ello, para cambiar de sh a bash podemos simplemente ejecutar el comando: 
 
-```/bin/bash````
+```
+/bin/bash
+````
 
 Para arreglarlo y que cada vez que se reinicie abramos una terminal con bash en vez de con sh tendremos que ejecutar un pequeño script en el inicio en vez de VNC directamente. Comenzaremos creando una carpeta que se llame «scripts» en la ruta «/home/pi«:
 
@@ -103,15 +115,21 @@ vncserver -randr 1920x1080
 
 Y le damos permisos de ejecución escribiendo el siguiente comando en una terminal abierta en el directorio donde tenemos el script:
 
-```chmod +x scriptVNC.sh```
+```
+chmod +x scriptVNC.sh
+```
 
 Tras esto, tenemos que volver a abrir el fichero de configuración de crontab con:
 
-```crontab -e````
+```
+crontab -e
+````
 
 Borramos la línea que habíamos escrito anteriormente para ejecutar VNC en el inicio y escribimos lo siguiente:
 
-```@reboot /home/pi/scripts/scriptVNC.sh````
+```
+@reboot /home/pi/scripts/scriptVNC.sh
+````
 
 Como antes, pulsamos control + O (y Enter) para guardar y para salir control + X. Reiniciamos la Raspberry Pi y ahora podremos conectarnos por VNC como antes pero cuando abramos una terminal tendremos bash en lugar de sh.
 
