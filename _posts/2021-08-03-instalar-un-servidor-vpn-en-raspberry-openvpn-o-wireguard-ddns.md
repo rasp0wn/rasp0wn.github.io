@@ -64,7 +64,7 @@ pivpn -qr
 
 Como dato adicional si tenéis algún problema (por ejemplo que os conecta a la VPN pero no tenéis internet) podéis ejecutar el comando de debuggin para que haga un checkeo y aplique la configración restante con: 
 
-````
+```
 pivpn -d
 ```
 
