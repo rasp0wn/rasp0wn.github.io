@@ -62,6 +62,12 @@ Nos pedirá que introduzcamos un nombre de usuario (si es con OpenVPN, también 
 pivpn -qr
 ```
 
+Como dato adicional si tenéis algún problema (por ejemplo que os conecta a la VPN pero no tenéis internet) podéis ejecutar el comando de debuggin para que haga un checkeo y aplique la configración restante con: 
+
+````
+pivpn -d
+```
+
 ## Apertura de puertos en el router y conexión
 
 Una vez ya hayamos realizado toda la configuración pertinente tendremos que abrir los puertos en nuestro router de forma que tengamos conexión directa al puerto que hemos configurado en el servidor VPN. Cada router es diferente así que aconsejo que si no sabéis cómo hacerlo vosotros mismos busquéis en Internet cómo es en vuestro modelo.
