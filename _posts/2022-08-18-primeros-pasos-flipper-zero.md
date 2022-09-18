@@ -64,6 +64,12 @@ A parte de todo lo comentado anteriormente, recomiendo mucho echarle un vistazo 
 
 Básicamente es un compendio de enlaces a los custom firmwares, bases de datos IR, canciones que se pueden agregar a la función de reproductor de música que tiene el Flipper Zero y un montón de utilidades más (algunas de ellas solo funcionan con custom firmwares).
 
+Otro enlace del usuario UberGuidoZ (bastante activo en la comunidad) que tiene multitud de archivos prácticamente para todo lo que puede hacer el Flipper Zero: 
+- <https://github.com/UberGuidoZ/Flipper>
+
+En ese mismo repositorio podéis encontrar los famosos códigos para intentar abrir el puerto de carga de los Tesla en la carpeta Sub-GHz.
+
+
 Otro enlace de interés si tenéis una consola de Nintendo. Son un montón de Amiibos ya escaneados para emular desde el Flipper Zero: 
 
 - <https://github.com/Gioman101/FlipperAmiibo>
