@@ -17,7 +17,7 @@ Para quien no lo sepa, el Flipper Zero es un dispositivo orientado a hardware ha
 Tras haber estado unos días cacharreando con el <a href="https://flipperzero.one/">Flipper Zero</a> y viendo las posibilidades que tiene he decidido hacer una pequeña recopilación de enlaces a repositorios y herramientas útiles. 
 
 # 1. Firmwares: Original vs Custom
-El primer paso que hay que realizar con el Flipper Zero es actualizarlo a la última versión del firmware oficial con el que viene. Esto se hace de forma muy sencilla a través de la herramienta que la propia empresa porporciona: https://flipperzero.one/update
+El primer paso que hay que realizar con el Flipper Zero es actualizarlo a la última versión del firmware oficial con el que viene. Esto se hace de forma muy sencilla a través de la herramienta que la propia empresa porporciona: <a href="https://flipperzero.one/update">
 
 ![flipper001](/assets/images/posts/flipper001.png)
 
